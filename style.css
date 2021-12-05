@@ -98,7 +98,7 @@ nav i{
     line-height: 1.7em;
 }
 
-@media(max-width:980px){
+@media(max-width:950px){
     .iphone,.vivo,.oppo,.mi{
         flex-direction: column;
     }
